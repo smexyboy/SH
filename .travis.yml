@@ -1,0 +1,7 @@
+language: node_js
+sudo: required
+node_js:
+  - "node"
+  - "6"
+  - "5"
+  - "4"
